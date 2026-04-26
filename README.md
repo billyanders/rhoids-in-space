@@ -75,6 +75,6 @@ Public domain - learn, modify, and share freely!
 
 ## Play It
 
-Open `hemorrhoids.html` in your web browser or host it on any web server.
+Open `rhoids.html` in your web browser or host it on any web server.
 
 Have fun and rack up those high scores! 🎮
